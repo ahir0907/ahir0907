@@ -1,4 +1,4 @@
-![logo](https://github.com/ahir0907/Kalpesh-Hadiya/blob/main/Untitled%20design.jpg)
+![logo](https://github.com/ahir0907/ahir0907/blob/main/Untitled%20design.jpg)
 <h1 align="center">Hi 👋, I'm Kalpesh Hadiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
